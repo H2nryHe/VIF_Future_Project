@@ -1,0 +1,9 @@
+Metric,In-Sample,Out-of-Sample
+total_return,-0.8972019969359533,0.0
+sharpe_ratio,-0.06960971421440566,0.0
+max_drawdown,-1.0000000927519161,0.0
+avg_return,-0.0019504391237738115,0.0
+std_return,0.4447979935370829,0.0
+hit_ratio,0.1,0.0
+annual_return,-0.4915106591910005,0.0
+turnover,0.004357298370450735,0.0
